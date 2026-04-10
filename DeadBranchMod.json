@@ -1,0 +1,11 @@
+{
+    "id": "DeadBranchMod",
+    "name": "Dead Branch Mod(燃烧树枝Mod)",
+    "author": "Emiya",
+    "description": "Mod 描述",
+    "version": "1.0",
+    "has_pck": true,
+    "has_dll": true,
+    "dependencies": ["BaseLib"],
+    "affects_gameplay": true
+}
