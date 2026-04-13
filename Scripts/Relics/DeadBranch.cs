@@ -14,7 +14,13 @@ namespace DeadBranchMod.Scripts.Relics;
 public class DeadBranch : CustomRelicModel
 {
     public override RelicRarity Rarity => RelicRarity.Rare;
-
+    
+    // 小图标
+    public override string PackedIconPath => $"res://DeadBranchMod/images/Relics/IroncladRelics/{Id.Entry}.png";
+    // 轮廓图标
+    protected override string PackedIconOutlinePath => $"res://DeadBranchMod/images/Relics/IroncladRelics/Outline/{Id.Entry}.png";
+    // 大图标
+    protected override string BigIconPath => $"res://DeadBranchMod/images/Relics/IroncladRelics/{Id.Entry}.png";
 
     /// InfernalBlade Code
 	// protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
