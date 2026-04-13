@@ -1,0 +1,4 @@
+{
+    "DEADBRANCH-REAPER.title": "死亡收割",
+    "DEADBRANCH-REAPER.description": "对所有敌人造成{Damage:diff()}点伤害。\n未被[gold]格挡[/gold]的伤害将恢复你的生命值。"
+}

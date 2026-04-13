@@ -8,7 +8,7 @@ using MegaCrit.Sts2.Core.GameActions.Multiplayer;
 using MegaCrit.Sts2.Core.Factories;
 using MegaCrit.Sts2.Core.Commands;
 
-namespace DeadBranchMod.Scripts.Relics;
+namespace DeadBranch.Scripts.Relics;
 
 [Pool(typeof(IroncladRelicPool))]
 public class DeadBranch : CustomRelicModel
@@ -16,11 +16,11 @@ public class DeadBranch : CustomRelicModel
     public override RelicRarity Rarity => RelicRarity.Rare;
     
     // 小图标
-    public override string PackedIconPath => $"res://DeadBranchMod/images/Relics/IroncladRelics/{Id.Entry}.png";
+    public override string PackedIconPath => $"res://DeadBranch/images/Relics/IroncladRelics/DeadBranch.png";
     // 轮廓图标
-    protected override string PackedIconOutlinePath => $"res://DeadBranchMod/images/Relics/IroncladRelics/Outline/{Id.Entry}.png";
+    protected override string PackedIconOutlinePath => $"res://DeadBranch/images/Relics/IroncladRelics/Outline/DeadBranch.png";
     // 大图标
-    protected override string BigIconPath => $"res://DeadBranchMod/images/Relics/IroncladRelics/{Id.Entry}.png";
+    protected override string BigIconPath => $"res://DeadBranch/images/Relics/IroncladRelics/DeadBranch.png";
 
     /// InfernalBlade Code
 	// protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)

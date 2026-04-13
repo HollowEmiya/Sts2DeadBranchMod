@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://4ldkskuygxu2"
-path="res://.godot/imported/DeadBranch.png-428a18ee681a7a249d13eb54e90318d0.ctex"
+uid="uid://m0v7y4p1xo14"
+path="res://.godot/imported/DeadBranch.png-8239b995b89311864d61697b32d59518.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://DeadBranchMod/images/Relics/IroncladRelics/DeadBranch.png"
-dest_files=["res://.godot/imported/DeadBranch.png-428a18ee681a7a249d13eb54e90318d0.ctex"]
+source_file="res://DeadBranch/images/Relics/IroncladRelics/Outline/DeadBranch.png"
+dest_files=["res://.godot/imported/DeadBranch.png-8239b995b89311864d61697b32d59518.ctex"]
 
 [params]
 

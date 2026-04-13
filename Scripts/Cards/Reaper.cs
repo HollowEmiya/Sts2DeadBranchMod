@@ -9,6 +9,8 @@ using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Commands.Builders;
 using MegaCrit.Sts2.Core.Entities.Creatures;
 
+namespace DeadBranch.Scripts.Cards;
+
 [Pool(typeof(IroncladCardPool))]
 public sealed class Reaper : DRModelIroncladCardModel
 {
