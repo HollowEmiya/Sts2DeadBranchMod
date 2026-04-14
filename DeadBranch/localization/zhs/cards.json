@@ -1,4 +1,8 @@
 {
     "DEADBRANCH-REAPER.title": "死亡收割",
-    "DEADBRANCH-REAPER.description": "对所有敌人造成{Damage:diff()}点伤害。\n未被[gold]格挡[/gold]的伤害将恢复你的生命值。"
+    "DEADBRANCH-REAPER.description": "对所有敌人造成{Damage:diff()}点伤害。\n未被[gold]格挡[/gold]的伤害将恢复你的生命值。",
+    "DEADBRANCH-SPOT_WEAKNESS.title": "观察弱点",
+    "DEADBRANCH-SPOT_WEAKNESS.description": "如果一名敌人的意图是攻击,\n你获得{StrengthPower:diff()}点力量",
+    "DEADBRANCH-UNPREPARED.title": "猝不及防",
+    "DEADBRANCH-UNPREPARED.description": "修改一名敌人的意图，并施加{WeakPower:diff()}层虚弱。"
 }
