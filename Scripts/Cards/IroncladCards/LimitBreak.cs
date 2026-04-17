@@ -28,6 +28,6 @@ public sealed class LimitBreak : DRModelIroncladCardModel
 
     protected override void OnUpgrade()
 	{
-		base.DynamicVars.Damage.UpgradeValueBy(2m);
+		RemoveKeyword(CardKeyword.Exhaust);
 	}
 }
