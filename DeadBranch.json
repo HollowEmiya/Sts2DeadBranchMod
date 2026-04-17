@@ -2,7 +2,7 @@
     "id": "DeadBranch",
     "name": "Dead Branch Mod(燃烧树枝Mod)",
     "author": "Emiya",
-    "description": "Mod 描述",
+    "description": "添加:\n    一代战士的卡牌:死亡收割,观察弱点,突破极限\n    一代战士遗物:燃烧的树枝\n    自制卡牌:猝不及防",
     "version": "1.0",
     "has_pck": true,
     "has_dll": true,

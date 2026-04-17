@@ -4,5 +4,7 @@
     "DEADBRANCH-SPOT_WEAKNESS.title": "观察弱点",
     "DEADBRANCH-SPOT_WEAKNESS.description": "如果一名敌人的意图是攻击,\n你获得{StrengthPower:diff()}点力量",
     "DEADBRANCH-UNPREPARED.title": "猝不及防",
-    "DEADBRANCH-UNPREPARED.description": "修改一名敌人的意图，并施加{WeakPower:diff()}层虚弱。"
+    "DEADBRANCH-UNPREPARED.description": "修改一名敌人的意图，并施加{WeakPower:diff()}层虚弱。",
+    "DEADBRANCH-LIMIT_BREAK.title": "突破极限",
+    "DEADBRANCH-LIMIT_BREAK.description": "将你的当前的力量翻倍。"
 }
