@@ -11,7 +11,7 @@ using MegaCrit.Sts2.Core.Commands;
 namespace DeadBranch.Scripts.Relics;
 
 [Pool(typeof(IroncladRelicPool))]
-public class DeadBranch : DRModelIroncladRelicModel
+public sealed class DeadBranch : DRModelIroncladRelicModel
 {
     public override RelicRarity Rarity => RelicRarity.Rare;
     
