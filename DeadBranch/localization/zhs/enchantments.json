@@ -1,0 +1,5 @@
+{
+    "DEADBRANCH-BRAVE.description": "当你的回合结束，如果这张牌位于[gold]抽牌堆[/gold]顶部，则将其打出。",
+    "DEADBRANCH-BRAVE.extraCardText": "勇猛",
+    "DEADBRANCH-BRAVE.title": "勇猛"
+}
