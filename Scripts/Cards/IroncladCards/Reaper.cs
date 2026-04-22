@@ -12,7 +12,7 @@ using MegaCrit.Sts2.Core.Entities.Creatures;
 namespace DeadBranch.Scripts.Cards;
 
 [Pool(typeof(IroncladCardPool))]
-public sealed class Reaper : DRModelIroncladCardModel
+public sealed class Reaper : DRIroncladCardModel
 {
     public override IEnumerable<CardKeyword> CanonicalKeywords => [CardKeyword.Exhaust];
     protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(4m, ValueProp.Move)];

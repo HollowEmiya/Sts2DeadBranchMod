@@ -11,7 +11,7 @@ using MegaCrit.Sts2.Core.Models.Powers;
 namespace DeadBranch.Scripts.Cards;
 
 [Pool(typeof(IroncladCardPool))]
-public class SpotWeakness : DRModelIroncladCardModel
+public class SpotWeakness : DRIroncladCardModel
 {
     protected override IEnumerable<IHoverTip> ExtraHoverTips =>
         new []{ HoverTipFactory.FromPower<StrengthPower>() };

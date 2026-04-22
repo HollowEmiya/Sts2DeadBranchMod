@@ -6,5 +6,7 @@
     "DEADBRANCH-UNPREPARED.title": "猝不及防",
     "DEADBRANCH-UNPREPARED.description": "修改一名敌人的意图，并施加{WeakPower:diff()}层虚弱。",
     "DEADBRANCH-LIMIT_BREAK.title": "突破极限",
-    "DEADBRANCH-LIMIT_BREAK.description": "将你的当前的[gold]力量[/gold]翻倍。"
+    "DEADBRANCH-LIMIT_BREAK.description": "将你的当前的[gold]力量[/gold]翻倍。",
+    "DEADBRANCH-FINAL_FLASH.title": "回光返照",
+    "DEADBRANCH-FINAL_FLASH.description": "从你的[gold]消耗牌堆[/gold]打出随机的{Cards:diff()}张牌。"
 }

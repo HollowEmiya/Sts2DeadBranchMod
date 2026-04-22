@@ -8,7 +8,7 @@ using MegaCrit.Sts2.Core.Models.Powers;
 namespace DeadBranch.Scripts.Cards;
 
 [Pool(typeof(IroncladCardPool))]
-public sealed class LimitBreak : DRModelIroncladCardModel
+public sealed class LimitBreak : DRIroncladCardModel
 {
     public override IEnumerable<CardKeyword> CanonicalKeywords => new []{CardKeyword.Exhaust};
 
